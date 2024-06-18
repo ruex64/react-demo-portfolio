@@ -1,0 +1,46 @@
+*{
+    font-family: 'VT323', monospace;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #18181A;
+    color: #18181A;
+    
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 4px;
+}
+
+.nav{
+    list-style: none;
+    }
+    .nb{
+        display: flex;
+        float: right;
+    }
+    .nli:hover{
+        color: #31363F;
+    }
+    a{
+        text-decoration: none;
+        color: #18181A;
+    }
+    .nli{
+        display: inline-block;
+        font-size: 35px;
+        margin: 15px;
+    }
+
+    .land{
+        background-color: #D9D9D9;
+        border-radius: 35px;
+    }
+    .lhead{
+        font-size: 75px; 
+    }
+    .lintro{
+        padding-left: 50px;
+        padding-bottom: 40px;
+    }
